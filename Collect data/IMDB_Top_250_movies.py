@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 import re
 from csv import writer
 
-
+ 
 class Imdb():
 
     """A CLASS THAT GENERATES A CSV FILE WITH DETAILS
