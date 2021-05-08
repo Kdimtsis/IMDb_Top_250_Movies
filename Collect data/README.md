@@ -1,10 +1,8 @@
 # Data cleaning
 
-## This script:
-1) Scrapes data using Beautiful Soup
-2) Scrape the data using Beautiful Soup from: 
-https://www.imdb.com/search/title/?groups=top_250&sort=user_rating,desc
-3) Writes them to a csv file
-4) Clean the csv file using Pandas in Jupyter Notebook
-
-*Tools that were used: requests, Beautiful Soup, csv writer, pandas*
+## This folder contains:
+1) A python script that scrapes data using Beautiful Soup and writes them to a Csv file:            
+2) The raw csv file 
+3) A jupyter notebook script that cleans the csv using Pandas
+4) The clean csv file
+*Tools that were used: requests, Beautiful Soup, Csv writer, pandas*
