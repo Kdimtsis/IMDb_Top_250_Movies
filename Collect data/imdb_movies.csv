@@ -1,0 +1,751 @@
+Index,Title,Description,Year,Movie Suitability,Category,Minutes,Rating,Votes,Director,Stars,Gross
+1,The Shawshank Redemption,"
+    Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",1994,R,"
+Drama            ",142 min,9.3,"2,385,373",Frank Darabont,"['Tim Robbins', 'Morgan Freeman', 'Bob Gunton', 'William Sadler']",$28.34M
+2,The Godfather,"
+    An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",1972,R,"
+Crime, Drama            ",175 min,9.2,"1,653,121",Francis Ford Coppola,"['Marlon Brando', 'Al Pacino', 'James Caan', 'Diane Keaton']",$134.97M
+3,The Dark Knight,"
+    When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",2008,PG-13,"
+Action, Crime, Drama            ",152 min,9.0,"2,348,542",Christopher Nolan,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart', 'Michael Caine']",$534.86M
+4,The Godfather: Part II,"
+    The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",1974,R,"
+Crime, Drama            ",202 min,9.0,"1,150,044",Francis Ford Coppola,"['Al Pacino', 'Robert De Niro', 'Robert Duvall', 'Diane Keaton']",$57.30M
+5,12 Angry Men,"
+    A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",1957,Approved,"
+Crime, Drama            ",96 min,9.0,"704,111",Sidney Lumet,"['Henry Fonda', 'Lee J. Cobb', 'Martin Balsam', 'John Fiedler']",$4.36M
+6,The Lord of the Rings: The Return of the King,"
+    Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",2003,PG-13,"
+Action, Adventure, Drama            ",201 min,8.9,"1,668,469",Peter Jackson,"['Elijah Wood', 'Viggo Mortensen', 'Ian McKellen', 'Orlando Bloom']",$377.85M
+7,Pulp Fiction,"
+    The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",1994,R,"
+Crime, Drama            ",154 min,8.9,"1,857,828",Quentin Tarantino,"['John Travolta', 'Uma Thurman', 'Samuel L. Jackson', 'Bruce Willis']",$107.93M
+8,Schindler's List,"
+    In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",1993,R,"
+Biography, Drama, History            ",195 min,8.9,"1,233,181",Steven Spielberg,"['Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall']",$96.90M
+9,Inception,"
+    A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",2010,PG-13,"
+Action, Adventure, Sci-Fi            ",148 min,8.8,"2,107,010",Christopher Nolan,"['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page', 'Ken Watanabe']",$292.58M
+10,Fight Club,"
+    An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",1999,R,"
+Drama            ",139 min,8.8,"1,887,046",David Fincher,"['Brad Pitt', 'Edward Norton', 'Meat Loaf', 'Zach Grenier']",$37.03M
+11,The Lord of the Rings: The Fellowship of the Ring,"
+    A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",2001,PG-13,"
+Action, Adventure, Drama            ",178 min,8.8,"1,689,107",Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Orlando Bloom', 'Sean Bean']",$315.54M
+12,Forrest Gump,"
+    The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",1994,PG-13,"
+Drama, Romance            ",142 min,8.8,"1,845,487",Robert Zemeckis,"['Tom Hanks', 'Robin Wright', 'Gary Sinise', 'Sally Field']",$330.25M
+13,"The Good, the Bad and the Ugly","
+    A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",1966,R,"
+Western            ",178 min,8.8,"698,834",Sergio Leone,"['Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef', 'Aldo Giuffrè']",$6.10M
+14,The Lord of the Rings: The Two Towers,"
+    While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",2002,PG-13,"
+Action, Adventure, Drama            ",179 min,8.7,"1,508,865",Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Viggo Mortensen', 'Orlando Bloom']",$342.55M
+15,The Matrix,"
+    When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",1999,R,"
+Action, Sci-Fi            ",136 min,8.7,"1,705,822",Lana Wachowski,"['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss', 'Hugo Weaving']",$171.48M
+16,Goodfellas,"
+    The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",1990,R,"
+Biography, Crime, Drama            ",146 min,8.7,"1,039,847",Martin Scorsese,"['Robert De Niro', 'Ray Liotta', 'Joe Pesci', 'Lorraine Bracco']",$46.84M
+17,Star Wars: Episode V - The Empire Strikes Back,"
+    After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",1980,PG,"
+Action, Adventure, Fantasy            ",124 min,8.7,"1,176,212",Irvin Kershner,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams']",$290.48M
+18,One Flew Over the Cuckoo's Nest,"
+    A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",1975,R,"
+Drama            ",133 min,8.7,"931,427",Milos Forman,"['Jack Nicholson', 'Louise Fletcher', 'Michael Berryman', 'Peter Brocco']",$112.00M
+19,Parasite,"
+    Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",2019,R,"
+Comedy, Drama, Thriller            ",132 min,8.6,"600,103",Bong Joon Ho,"['Kang-ho Song', 'Sun-kyun Lee', 'Yeo-jeong Cho', 'Woo-sik Choi']",$53.37M
+20,Interstellar,"
+    A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",2014,PG-13,"
+Adventure, Drama, Sci-Fi            ",169 min,8.6,"1,551,604",Christopher Nolan,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain', 'Mackenzie Foy']",$188.02M
+21,City of God,"
+    In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",2002,R,"
+Crime, Drama            ",130 min,8.6,"708,102",Fernando Meirelles,"['Alexandre Rodrigues', 'Leandro Firmino', 'Matheus Nachtergaele', 'Phellipe Haagensen']",$7.56M
+22,Spirited Away,"
+    During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",2001,PG,"
+Animation, Adventure, Family            ",125 min,8.6,"668,076",Hayao Miyazaki,"['Daveigh Chase', 'Suzanne Pleshette', 'Miyu Irino', 'Rumi Hiiragi']",$10.06M
+23,Saving Private Ryan,"
+    Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",1998,R,"
+Drama, War            ",169 min,8.6,"1,258,934",Steven Spielberg,"['Tom Hanks', 'Matt Damon', 'Tom Sizemore', 'Edward Burns']",$216.54M
+24,The Green Mile,"
+    The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",1999,R,"
+Crime, Drama, Fantasy            ",189 min,8.6,"1,170,226",Frank Darabont,"['Tom Hanks', 'Michael Clarke Duncan', 'David Morse', 'Bonnie Hunt']",$136.80M
+25,Life Is Beautiful,"
+    When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",1997,PG-13,"
+Comedy, Drama, Romance            ",116 min,8.6,"635,133",Roberto Benigni,"['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini', 'Giustino Durano']",$57.60M
+26,Se7en,"
+    Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",1995,R,"
+Crime, Drama, Mystery            ",127 min,8.6,"1,472,802",David Fincher,"['Morgan Freeman', 'Brad Pitt', 'Kevin Spacey', 'Andrew Kevin Walker']",$100.13M
+27,The Silence of the Lambs,"
+    A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",1991,R,"
+Crime, Drama, Thriller            ",118 min,8.6,"1,294,764",Jonathan Demme,"['Jodie Foster', 'Anthony Hopkins', 'Lawrence A. Bonney', 'Kasi Lemmons']",$130.74M
+28,Star Wars: Episode IV - A New Hope,"
+    Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",1977,PG,"
+Action, Adventure, Fantasy            ",121 min,8.6,"1,248,282",George Lucas,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Alec Guinness']",$322.74M
+29,Hara-Kiri,"
+    When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",1962,Not Rated,"
+Action, Drama, Mystery            ",133 min,8.6,"44,683",Masaki Kobayashi,"['Tatsuya Nakadai', 'Akira Ishihama', 'Shima Iwashita', 'Tetsurô Tanba']","44,683"
+30,Seven Samurai,"
+    A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",1954,Not Rated,"
+Action, Adventure, Drama            ",207 min,8.6,"320,682",Akira Kurosawa,"['Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima', 'Yukiko Shimazaki']",$0.27M
+31,It's a Wonderful Life,"
+    An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",1946,PG,"
+Drama, Family, Fantasy            ",130 min,8.6,"411,682",Frank Capra,"['James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell']","411,682"
+32,Hamilton,"
+    The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",2020,PG-13,"
+Biography, Drama, History            ",160 min,8.5,"63,499",Thomas Kail,"['Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.', 'Renée Elise Goldsberry']","63,499"
+33,Raatchasan,"
+    A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally.",2018,Not Rated,"
+Action, Crime, Thriller            ",170 min,8.5,"27,998",Ram Kumar,"['Vishnu Vishal', 'Amala Paul', 'Radha Ravi', 'Sangili Murugan']","27,998"
+34,Whiplash,"
+    A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",2014,R,"
+Drama, Music            ",106 min,8.5,"735,818",Damien Chazelle,"['Miles Teller', 'J.K. Simmons', 'Melissa Benoist', 'Paul Reiser']",$13.09M
+35,The Intouchables,"
+    After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",2011,R,"
+Biography, Comedy, Drama            ",112 min,8.5,"776,257",Olivier Nakache,"['François Cluzet', 'Omar Sy', 'Anne Le Ny', 'Audrey Fleurot']",$13.18M
+36,The Prestige,"
+    After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",2006,PG-13,"
+Drama, Mystery, Sci-Fi            ",130 min,8.5,"1,212,054",Christopher Nolan,"['Christian Bale', 'Hugh Jackman', 'Scarlett Johansson', 'Michael Caine']",$53.09M
+37,The Departed,"
+    An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",2006,R,"
+Crime, Drama, Thriller            ",151 min,8.5,"1,209,868",Martin Scorsese,"['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson', 'Mark Wahlberg']",$132.38M
+38,The Pianist,"
+    A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",2002,R,"
+Biography, Drama, Music            ",150 min,8.5,"746,236",Roman Polanski,"['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay', 'Emilia Fox']",$32.57M
+39,Gladiator,"
+    A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",2000,R,"
+Action, Adventure, Drama            ",155 min,8.5,"1,362,752",Ridley Scott,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed']",$187.71M
+40,American History X,"
+    A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",1998,R,"
+Drama            ",119 min,8.5,"1,047,598",Tony Kaye,"['Edward Norton', 'Edward Furlong', ""Beverly D'Angelo"", 'Jennifer Lien']",$6.72M
+41,The Usual Suspects,"
+    A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",1995,R,"
+Crime, Mystery, Thriller            ",106 min,8.5,"1,005,322",Bryan Singer,"['Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri', 'Stephen Baldwin']",$23.34M
+42,Léon: The Professional,"
+    Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",1994,R,"
+Action, Crime, Drama            ",110 min,8.5,"1,053,514",Luc Besson,"['Jean Reno', 'Gary Oldman', 'Natalie Portman', 'Danny Aiello']",$19.50M
+43,The Lion King,"
+    Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",1994,G,"
+Animation, Adventure, Drama            ",88 min,8.5,"958,946",Roger Allers,"['Matthew Broderick', 'Jeremy Irons', 'James Earl Jones', 'Whoopi Goldberg']",$422.78M
+44,Terminator 2: Judgment Day,"
+    A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced and powerful cyborg.",1991,R,"
+Action, Sci-Fi            ",137 min,8.5,"1,008,629",James Cameron,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong', 'Robert Patrick']",$204.84M
+45,Cinema Paradiso,"
+    A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",1988,R,"
+Drama, Romance            ",155 min,8.5,"235,724",Giuseppe Tornatore,"['Philippe Noiret', 'Enzo Cannavale', 'Antonella Attili', 'Isa Danieli']",$11.99M
+46,Grave of the Fireflies,"
+    A young boy and his little sister struggle to survive in Japan during World War II.",1988,Not Rated,"
+Animation, Drama, War            ",89 min,8.5,"241,990",Isao Takahata,"['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Akemi Yamaguchi', 'Yoshiko Shinohara']","241,990"
+47,Back to the Future,"
+    Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",1985,PG,"
+Adventure, Comedy, Sci-Fi            ",116 min,8.5,"1,078,392",Robert Zemeckis,"['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Crispin Glover']",$210.61M
+48,Once Upon a Time in the West,"
+    A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",1968,PG-13,"
+Western            ",165 min,8.5,"307,237",Sergio Leone,"['Henry Fonda', 'Charles Bronson', 'Claudia Cardinale', 'Jason Robards']",$5.32M
+49,Psycho,"
+    A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",1960,R,"
+Horror, Mystery, Thriller            ",109 min,8.5,"614,102",Alfred Hitchcock,"['Anthony Perkins', 'Janet Leigh', 'Vera Miles', 'John Gavin']",$32.00M
+50,Casablanca,"
+    A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",1942,PG,"
+Drama, Romance, War            ",102 min,8.5,"529,477",Michael Curtiz,"['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid', 'Claude Rains']",$1.02M
+51,Modern Times,"
+    The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",1936,G,"
+Comedy, Drama, Family            ",87 min,8.5,"222,141",Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Henry Bergman', 'Tiny Sandford']",$0.16M
+52,City Lights,"
+    With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",1931,G,"
+Comedy, Drama, Romance            ",87 min,8.5,"170,758",Charles Chaplin,"['Charles Chaplin', 'Virginia Cherrill', 'Florence Lee', 'Harry Myers']",$0.02M
+53,Capernaum,"
+    While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",2018,R,"
+Drama            ",126 min,8.4,"68,062",Nadine Labaki,"['Zain Al Rafeea', 'Yordanos Shiferaw', 'Boluwatife Treasure Bankole', 'Kawsar Al Haddad']",$1.66M
+54,Joker,"
+    In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",2019,R,"
+Crime, Drama, Thriller            ",122 min,8.4,"990,648",Todd Phillips,"['Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz', 'Frances Conroy']",$335.45M
+55,Your Name.,"
+    Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",2016,PG,"
+Animation, Drama, Fantasy            ",106 min,8.4,"206,803",Makoto Shinkai,"['Ryûnosuke Kamiki', 'Mone Kamishiraishi', 'Ryô Narita', 'Aoi Yûki']",$5.02M
+56,Dangal,"
+    Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",2016,Not Rated,"
+Action, Biography, Drama            ",161 min,8.4,"161,724",Nitesh Tiwari,"['Aamir Khan', 'Sakshi Tanwar', 'Fatima Sana Shaikh', 'Sanya Malhotra']",$12.39M
+57,Spider-Man: Into the Spider-Verse,"
+    Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",2018,PG,"
+Animation, Action, Adventure            ",117 min,8.4,"396,631",Bob Persichetti,"['Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld', 'Mahershala Ali']",$190.24M
+58,Avengers: Endgame,"
+    After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",2019,PG-13,"
+Action, Adventure, Drama            ",181 min,8.4,"866,064",Anthony Russo,"['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo', 'Chris Hemsworth']",$858.37M
+59,Avengers: Infinity War,"
+    The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",2018,PG-13,"
+Action, Adventure, Sci-Fi            ",149 min,8.4,"871,905",Anthony Russo,"['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo', 'Chris Evans']",$678.82M
+60,Coco,"
+    Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",I 2017,PG,"
+Animation, Adventure, Family            ",105 min,8.4,"402,742",Lee Unkrich,"['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt', 'Alanna Ubach']",$209.73M
+61,Django Unchained,"
+    With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",2012,R,"
+Drama, Western            ",165 min,8.4,"1,384,858",Quentin Tarantino,"['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio', 'Kerry Washington']",$162.81M
+62,The Dark Knight Rises,"
+    Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",2012,PG-13,"
+Action, Adventure            ",164 min,8.4,"1,541,123",Christopher Nolan,"['Christian Bale', 'Tom Hardy', 'Anne Hathaway', 'Gary Oldman']",$448.14M
+63,3 Idiots,"
+    Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them ""idiots"".",2009,PG-13,"
+Comedy, Drama            ",170 min,8.4,"352,098",Rajkumar Hirani,"['Aamir Khan', 'Madhavan', 'Mona Singh', 'Sharman Joshi']",$6.53M
+64,Like Stars on Earth,"
+    An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",2007,PG,"
+Drama, Family            ",165 min,8.4,"173,479",Aamir Khan,"['Darsheel Safary', 'Aamir Khan', 'Tisca Chopra', 'Vipin Sharma']",$1.22M
+65,WALL·E,"
+    In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",2008,G,"
+Animation, Adventure, Family            ",98 min,8.4,"1,016,500",Andrew Stanton,"['Ben Burtt', 'Elissa Knight', 'Jeff Garlin', 'Fred Willard']",$223.81M
+66,The Lives of Others,"
+    In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",2006,R,"
+Drama, Mystery, Thriller            ",137 min,8.4,"364,578",Florian Henckel von Donnersmarck,"['Ulrich Mühe', 'Martina Gedeck', 'Sebastian Koch', 'Ulrich Tukur']",$11.29M
+67,Oldboy,"
+    After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",2003,R,"
+Action, Drama, Mystery            ",120 min,8.4,"525,342",Chan-wook Park,"['Choi Min-sik', 'Yoo Ji-Tae', 'Kang Hye-jeong', 'Kim Byeong-Ok']",$0.71M
+68,Memento,"
+    A man with short-term memory loss attempts to track down his wife's murderer.",2000,R,"
+Mystery, Thriller            ",113 min,8.4,"1,142,223",Christopher Nolan,"['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano', 'Mark Boone Junior']",$25.54M
+69,Princess Mononoke,"
+    On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",1997,PG-13,"
+Animation, Action, Adventure            ",134 min,8.4,"351,391",Hayao Miyazaki,"['Yôji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka', 'Billy Crudup']",$2.38M
+70,Once Upon a Time in America,"
+    A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",1984,R,"
+Crime, Drama            ",229 min,8.4,"317,364",Sergio Leone,"['Robert De Niro', 'James Woods', 'Elizabeth McGovern', 'Treat Williams']",$5.32M
+71,Indiana Jones and the Raiders of the Lost Ark,"
+    In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",1981,PG,"
+Action, Adventure            ",115 min,8.4,"895,482",Steven Spielberg,"['Harrison Ford', 'Karen Allen', 'Paul Freeman', 'John Rhys-Davies']",$248.16M
+72,The Shining,"
+    A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",1980,R,"
+Drama, Horror            ",146 min,8.4,"914,869",Stanley Kubrick,"['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd', 'Scatman Crothers']",$44.02M
+73,Apocalypse Now,"
+    A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",1979,R,"
+Drama, Mystery, War            ",147 min,8.4,"615,998",Francis Ford Coppola,"['Martin Sheen', 'Marlon Brando', 'Robert Duvall', 'Frederic Forrest']",$83.47M
+74,Alien,"
+    After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",1979,R,"
+Horror, Sci-Fi            ",117 min,8.4,"800,934",Ridley Scott,"['Sigourney Weaver', 'Tom Skerritt', 'John Hurt', 'Veronica Cartwright']",$78.90M
+75,High and Low,"
+    An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",1963,Not Rated,"
+Crime, Drama, Mystery            ",143 min,8.4,"36,373",Akira Kurosawa,"['Toshirô Mifune', 'Yutaka Sada', 'Tatsuya Nakadai', 'Kyôko Kagawa']","36,373"
+76,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"
+    An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",1964,PG,"
+Comedy            ",95 min,8.4,"456,500",Stanley Kubrick,"['Peter Sellers', 'George C. Scott', 'Sterling Hayden', 'Keenan Wynn']",$0.28M
+77,Witness for the Prosecution,"
+    A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",1957,Approved,"
+Crime, Drama, Mystery            ",116 min,8.4,"111,543",Billy Wilder,"['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton', 'Elsa Lanchester']",$8.18M
+78,Paths of Glory,"
+    After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",1957,Approved,"
+Drama, War            ",88 min,8.4,"181,535",Stanley Kubrick,"['Kirk Douglas', 'Ralph Meeker', 'Adolphe Menjou', 'George Macready']","181,535"
+79,Rear Window,"
+    A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",1954,PG,"
+Mystery, Thriller            ",112 min,8.4,"450,937",Alfred Hitchcock,"['James Stewart', 'Grace Kelly', 'Wendell Corey', 'Thelma Ritter']",$36.76M
+80,Sunset Blvd.,"
+    A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",1950,Passed,"
+Drama, Film-Noir            ",110 min,8.4,"204,934",Billy Wilder,"['William Holden', 'Gloria Swanson', 'Erich von Stroheim', 'Nancy Olson']","204,934"
+81,The Great Dictator,"
+    Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",1940,Passed,"
+Comedy, Drama, War            ",125 min,8.4,"206,437",Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Jack Oakie', 'Reginald Gardiner']",$0.29M
+82,1917,"
+    April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",2019,R,"
+Drama, Thriller, War            ",119 min,8.3,"456,704",Sam Mendes,"['Dean-Charles Chapman', 'George MacKay', 'Daniel Mays', 'Colin Firth']",$159.23M
+83,The Hunt,"
+    A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",2012,R,"
+Drama            ",115 min,8.3,"290,939",Thomas Vinterberg,"['Mads Mikkelsen', 'Thomas Bo Larsen', 'Annika Wedderkopp', 'Lasse Fogelstrøm']",$0.69M
+84,A Separation,"
+    A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",2011,PG-13,"
+Drama            ",123 min,8.3,"224,519",Asghar Farhadi,"['Payman Maadi', 'Leila Hatami', 'Sareh Bayat', 'Shahab Hosseini']",$7.10M
+85,Incendies,"
+    Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",2010,R,"
+Drama, Mystery, War            ",131 min,8.3,"154,718",Denis Villeneuve,"['Lubna Azabal', 'Mélissa Désormeaux-Poulin', 'Maxim Gaudette', 'Mustafa Kamel']",$6.86M
+86,The Father,"
+    A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",I 2020,PG-13,"
+Drama            ",97 min,8.3,"50,456",Florian Zeller,"['Anthony Hopkins', 'Olivia Colman', 'Mark Gatiss', 'Olivia Williams']","50,456"
+87,My Father and My Son,"
+    The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",2005,Not rated,"
+Drama, Family            ",112 min,8.3,"80,691",Çagan Irmak,"['Eser Sariyar', 'Çetin Tekindor', 'Fikret Kuskan', 'Hümeyra']","80,691"
+88,Inglourious Basterds,"
+    In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",2009,R,"
+Adventure, Drama, War            ",153 min,8.3,"1,293,752",Quentin Tarantino,"['Brad Pitt', 'Diane Kruger', 'Eli Roth', 'Mélanie Laurent']",$120.54M
+89,Eternal Sunshine of the Spotless Mind,"
+    When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",2004,R,"
+Drama, Romance, Sci-Fi            ",108 min,8.3,"925,012",Michel Gondry,"['Jim Carrey', 'Kate Winslet', 'Tom Wilkinson', 'Gerry Robert Byrne']",$34.40M
+90,Amélie,"
+    Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",2001,R,"
+Comedy, Romance            ",122 min,8.3,"712,401",Jean-Pierre Jeunet,"['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus', 'Lorella Cravotta']",$33.23M
+91,Snatch,"
+    Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",2000,R,"
+Comedy, Crime            ",102 min,8.3,"792,722",Guy Ritchie,"['Jason Statham', 'Brad Pitt', 'Benicio Del Toro', 'Dennis Farina']",$30.33M
+92,Requiem for a Dream,"
+    The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",2000,R,"
+Drama            ",102 min,8.3,"778,474",Darren Aronofsky,"['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly', 'Marlon Wayans']",$3.64M
+93,American Beauty,"
+    A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",1999,R,"
+Drama            ",122 min,8.3,"1,082,904",Sam Mendes,"['Kevin Spacey', 'Annette Bening', 'Thora Birch', 'Wes Bentley']",$130.10M
+94,Good Will Hunting,"
+    Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",1997,R,"
+Drama, Romance            ",126 min,8.3,"877,313",Gus Van Sant,"['Robin Williams', 'Matt Damon', 'Ben Affleck', 'Stellan Skarsgård']",$138.43M
+95,Children of Heaven,"
+    After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to ""win"" a new pair.",1997,PG,"
+Drama, Family, Sport            ",89 min,8.3,"67,161",Majid Majidi,"['Mohammad Amir Naji', 'Amir Farrokh Hashemian', 'Bahare Seddiqi', 'Nafise Jafar-Mohammadi']",$0.93M
+96,Toy Story,"
+    A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",1995,G,"
+Animation, Adventure, Comedy            ",81 min,8.3,"902,377",John Lasseter,"['Tom Hanks', 'Tim Allen', 'Don Rickles', 'Jim Varney']",$191.80M
+97,Braveheart,"
+    Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",1995,R,"
+Biography, Drama, History            ",178 min,8.3,"971,162",Mel Gibson,"['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan', 'Angus Macfadyen']",$75.60M
+98,Reservoir Dogs,"
+    When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",1992,R,"
+Crime, Drama, Thriller            ",99 min,8.3,"933,425",Quentin Tarantino,"['Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn']",$2.83M
+99,Full Metal Jacket,"
+    A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",1987,R,"
+Drama, War            ",116 min,8.3,"684,846",Stanley Kubrick,"['Matthew Modine', 'R. Lee Ermey', ""Vincent D'Onofrio"", 'Adam Baldwin']",$46.36M
+100,Come and See,"
+    After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",1985,Not Rated,"
+Drama, Thriller, War            ",142 min,8.3,"62,232",Elem Klimov,"['Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius', 'Vladas Bagdonas']","62,232"
+101,Aliens,"
+    Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",1986,R,"
+Action, Adventure, Sci-Fi            ",137 min,8.3,"661,501",James Cameron,"['Sigourney Weaver', 'Michael Biehn', 'Carrie Henn', 'Paul Reiser']",$85.16M
+102,Amadeus,"
+    The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",1984,R,"
+Biography, Drama, History            ",160 min,8.3,"374,230",Milos Forman,"['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge', 'Roy Dotrice']",$51.97M
+103,Scarface,"
+    In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",1983,R,"
+Crime, Drama            ",170 min,8.3,"755,819",Brian De Palma,"['Al Pacino', 'Michelle Pfeiffer', 'Steven Bauer', 'Mary Elizabeth Mastrantonio']",$45.60M
+104,Star Wars: Episode VI - Return of the Jedi,"
+    After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",1983,PG,"
+Action, Adventure, Fantasy            ",131 min,8.3,"964,027",Richard Marquand,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams']",$309.13M
+105,Das Boot,"
+    The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",1981,R,"
+Adventure, Drama, Thriller            ",149 min,8.3,"235,141",Wolfgang Petersen,"['Jürgen Prochnow', 'Herbert Grönemeyer', 'Klaus Wennemann', 'Hubertus Bengsch']",$11.49M
+106,The Sting,"
+    Two grifters team up to pull off the ultimate con.",1973,PG,"
+Comedy, Crime, Drama            ",129 min,8.3,"244,880",George Roy Hill,"['Paul Newman', 'Robert Redford', 'Robert Shaw', 'Charles Durning']",$159.60M
+107,A Clockwork Orange,"
+    In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",1971,R,"
+Crime, Drama, Sci-Fi            ",136 min,8.3,"768,374",Stanley Kubrick,"['Malcolm McDowell', 'Patrick Magee', 'Michael Bates', 'Warren Clarke']",$6.21M
+108,Anand,"
+    The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",1971,Not Rated,"
+Drama, Musical            ",122 min,8.3,"31,443",Hrishikesh Mukherjee,"['Rajesh Khanna', 'Amitabh Bachchan', 'Sumita Sanyal', 'Ramesh Deo']","31,443"
+109,2001: A Space Odyssey,"
+    After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",1968,G,"
+Adventure, Sci-Fi            ",149 min,8.3,"613,100",Stanley Kubrick,"['Keir Dullea', 'Gary Lockwood', 'William Sylvester', 'Daniel Richter']",$56.95M
+110,Lawrence of Arabia,"
+    The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",1962,Approved,"
+Adventure, Biography, Drama            ",228 min,8.3,"272,119",David Lean,"[""Peter O'Toole"", 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins']",$44.82M
+111,The Apartment,"
+    A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",1960,Approved,"
+Comedy, Drama, Romance            ",125 min,8.3,"167,313",Billy Wilder,"['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray', 'Ray Walston']",$18.60M
+112,North by Northwest,"
+    A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",1959,Approved,"
+Adventure, Mystery, Thriller            ",136 min,8.3,"303,322",Alfred Hitchcock,"['Cary Grant', 'Eva Marie Saint', 'James Mason', 'Jessie Royce Landis']",$13.28M
+113,Vertigo,"
+    A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",1958,PG,"
+Mystery, Romance, Thriller            ",128 min,8.3,"370,478",Alfred Hitchcock,"['James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore']",$3.20M
+114,Singin' in the Rain,"
+    A silent film production company and cast make a difficult transition to sound.",1952,G,"
+Comedy, Musical, Romance            ",103 min,8.3,"222,610",Stanley Donen,"['Gene Kelly', ""Donald O'Connor"", 'Debbie Reynolds', 'Jean Hagen']",$8.82M
+115,Ikiru,"
+    A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",1952,Not Rated,"
+Drama            ",143 min,8.3,"70,345",Akira Kurosawa,"['Takashi Shimura', 'Nobuo Kaneko', ""Shin'ichi Himori"", 'Haruo Tanaka']",$0.06M
+116,Bicycle Thieves,"
+    In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",1948,Not Rated,"
+Drama            ",89 min,8.3,"149,597",Vittorio De Sica,"['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell', 'Elena Altieri']",$0.33M
+117,Double Indemnity,"
+    An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",1944,Passed,"
+Crime, Drama, Film-Noir            ",107 min,8.3,"145,925",Billy Wilder,"['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson', 'Byron Barr']",$5.72M
+118,Citizen Kane,"
+    Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",1941,PG,"
+Drama, Mystery            ",119 min,8.3,"411,383",Orson Welles,"['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore', 'Agnes Moorehead']",$1.59M
+119,M,"
+    When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",1931,Passed,"
+Crime, Mystery, Thriller            ",99 min,8.3,"146,029",Fritz Lang,"['Peter Lorre', 'Ellen Widmann', 'Inge Landgut', 'Otto Wernicke']",$0.03M
+120,Metropolis,"
+    In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",1927,Not Rated,"
+Drama, Sci-Fi            ",153 min,8.3,"162,491",Fritz Lang,"['Brigitte Helm', 'Alfred Abel', 'Gustav Fröhlich', 'Rudolf Klein-Rogge']",$1.24M
+121,The Kid,"
+    The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",1921,Passed,"
+Comedy, Drama, Family            ",68 min,8.3,"115,989",Charles Chaplin,"['Charles Chaplin', 'Edna Purviance', 'Jackie Coogan', 'Carl Miller']",$5.45M
+122,Andhadhun,"
+    A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",2018,Not Rated,"
+Crime, Drama, Music            ",139 min,8.2,"75,425",Sriram Raghavan,"['Ayushmann Khurrana', 'Tabu', 'Radhika Apte', 'Anil Dhawan']",$1.37M
+123,Green Book,"
+    A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",2018,PG-13,"
+Biography, Comedy, Drama            ",130 min,8.2,"401,207",Peter Farrelly,"['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini', 'Sebastian Maniscalco']",$85.08M
+124,Klaus,"
+    A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",2019,PG,"
+Animation, Adventure, Comedy            ",96 min,8.2,"111,609",Sergio Pablos,"['Jason Schwartzman', 'J.K. Simmons', 'Rashida Jones', 'Will Sasso']","111,609"
+125,Drishyam,"
+    Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",2015,Not Rated,"
+Crime, Drama, Mystery            ",163 min,8.2,"73,072",Nishikant Kamat,"['Ajay Devgn', 'Shriya Saran', 'Tabu', 'Rajat Kapoor']",$0.74M
+126,Tangerines,"
+    In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.",2013,Not Rated,"
+Drama, War            ",87 min,8.2,"42,303",Zaza Urushadze,"['Lembit Ulfsak', 'Elmo Nüganen', 'Giorgi Nakashidze', 'Misha Meskhi']",$0.14M
+127,Gangs of Wasseypur,"
+    A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",2012,Not Rated,"
+Action, Comedy, Crime            ",321 min,8.2,"84,390",Anurag Kashyap,"['Manoj Bajpayee', 'Richa Chadha', 'Nawazuddin Siddiqui', 'Tigmanshu Dhulia']","84,390"
+128,The Secret in Their Eyes,"
+    A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",2009,R,"
+Drama, Mystery, Romance            ",129 min,8.2,"196,526",Juan José Campanella,"['Ricardo Darín', 'Soledad Villamil', 'Pablo Rago', 'Carla Quevedo']",$6.39M
+129,Warrior,"
+    The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",2011,PG-13,"
+Action, Drama, Sport            ",140 min,8.2,"441,557",Gavin O'Connor,"['Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison']",$13.66M
+130,Shutter Island,"
+    In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",2010,R,"
+Mystery, Thriller            ",138 min,8.2,"1,155,738",Martin Scorsese,"['Leonardo DiCaprio', 'Emily Mortimer', 'Mark Ruffalo', 'Ben Kingsley']",$128.01M
+131,Up,"
+    78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",2009,PG,"
+Animation, Adventure, Comedy            ",96 min,8.2,"950,989",Pete Docter,"['Edward Asner', 'Jordan Nagai', 'John Ratzenberger', 'Christopher Plummer']",$293.00M
+132,The Wolf of Wall Street,"
+    Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",2013,R,"
+Biography, Crime, Drama            ",180 min,8.2,"1,218,960",Martin Scorsese,"['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie', 'Matthew McConaughey']",$116.90M
+133,There Will Be Blood,"
+    A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",2007,R,"
+Drama            ",158 min,8.2,"527,811",Paul Thomas Anderson,"['Daniel Day-Lewis', 'Paul Dano', 'Ciarán Hinds', 'Martin Stringer']",$40.22M
+134,Pan's Labyrinth,"
+    In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",2006,R,"
+Drama, Fantasy, War            ",118 min,8.2,"626,536",Guillermo del Toro,"['Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú']",$37.63M
+135,Toy Story 3,"
+    The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",2010,G,"
+Animation, Adventure, Comedy            ",103 min,8.2,"768,138",Lee Unkrich,"['Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Ned Beatty']",$415.00M
+136,V for Vendetta,"
+    In a future British tyranny, a shadowy freedom fighter, known only by the alias of ""V"", plots to overthrow it with the help of a young woman.",2005,R,"
+Action, Drama, Sci-Fi            ",132 min,8.2,"1,046,361",James McTeigue,"['Hugo Weaving', 'Natalie Portman', 'Rupert Graves', 'Stephen Rea']",$70.51M
+137,Batman Begins,"
+    After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",2005,PG-13,"
+Action, Adventure            ",140 min,8.2,"1,329,252",Christopher Nolan,"['Christian Bale', 'Michael Caine', 'Ken Watanabe', 'Liam Neeson']",$206.85M
+138,Swades,"
+    A successful Indian scientist returns to an Indian village to take his nanny to America with him and in the process rediscovers his roots.",2004,Not Rated,"
+Drama            ",189 min,8.2,"84,158",Ashutosh Gowariker,"['Shah Rukh Khan', 'Gayatri Joshi', 'Kishori Ballal', 'Smit Sheth']",$1.22M
+139,Downfall,"
+Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",2004,R,"
+Biography, Drama, History            ",156 min,8.2,"335,531",Oliver Hirschbiegel,"['Bruno Ganz', 'Alexandra Maria Lara', 'Ulrich Matthes', 'Juliane Köhler']",$5.51M
+140,Howl's Moving Castle,"
+    When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",2004,PG,"
+Animation, Adventure, Family            ",119 min,8.2,"343,613",Hayao Miyazaki,"['Chieko Baishô', 'Takuya Kimura', 'Tatsuya Gashûin', 'Akihiro Miwa']",$4.71M
+141,A Beautiful Mind,"
+    After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",2001,PG-13,"
+Biography, Drama            ",135 min,8.2,"862,467",Ron Howard,"['Russell Crowe', 'Ed Harris', 'Jennifer Connelly', 'Christopher Plummer']",$170.74M
+142,"Lock, Stock and Two Smoking Barrels","
+    Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",1998,R,"
+Action, Comedy, Crime            ",107 min,8.2,"542,882",Guy Ritchie,"['Jason Flemyng', 'Dexter Fletcher', 'Nick Moran', 'Jason Statham']",$3.90M
+143,L.A. Confidential,"
+    As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",1997,R,"
+Crime, Drama, Mystery            ",138 min,8.2,"539,437",Curtis Hanson,"['Kevin Spacey', 'Russell Crowe', 'Guy Pearce', 'Kim Basinger']",$64.62M
+144,The Bandit,"
+    Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.",1996,Not rated,"
+Crime, Drama, Thriller            ",128 min,8.2,"65,510",Yavuz Turgul,"['Sener Sen', 'Ugur Yücel', 'Sermin Hürmeriç', 'Yesim Salkim']","65,510"
+145,Heat,"
+    A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",1995,R,"
+Crime, Drama, Thriller            ",170 min,8.2,"588,367",Michael Mann,"['Al Pacino', 'Robert De Niro', 'Val Kilmer', 'Jon Voight']",$67.44M
+146,Casino,"
+    A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",1995,R,"
+Crime, Drama            ",178 min,8.2,"474,822",Martin Scorsese,"['Robert De Niro', 'Sharon Stone', 'Joe Pesci', 'James Woods']",$42.44M
+147,Unforgiven,"
+    Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The ""Schofield Kid.""",1992,R,"
+Drama, Western            ",130 min,8.2,"381,559",Clint Eastwood,"['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman', 'Richard Harris']",$101.16M
+148,Indiana Jones and the Last Crusade,"
+    In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry ""Indiana"" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",1989,PG-13,"
+Action, Adventure            ",127 min,8.2,"700,809",Steven Spielberg,"['Harrison Ford', 'Sean Connery', 'Alison Doody', 'Denholm Elliott']",$197.17M
+149,Time of the Gypsies,"
+    In this luminous tale set in the area around Sarajevo and in Italy, Perhan, an engaging young Romany (gypsy) with telekinetic powers, is seduced by the quick-cash world of petty crime, which threatens to destroy him and those he loves.",1988,R,"
+Comedy, Crime, Drama            ",142 min,8.2,"28,073",Emir Kusturica,"['Davor Dujmovic', 'Bora Todorovic', 'Ljubica Adzovic', 'Husnija Hasimovic']",$0.28M
+150,My Neighbor Totoro,"
+    When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",1988,G,"
+Animation, Family, Fantasy            ",86 min,8.2,"299,192",Hayao Miyazaki,"['Hitoshi Takagi', 'Noriko Hidaka', 'Chika Sakamoto', 'Shigesato Itoi']",$1.11M
+151,Die Hard,"
+    An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",1988,R,"
+Action, Thriller            ",132 min,8.2,"802,912",John McTiernan,"['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia', 'Reginald VelJohnson']",$83.01M
+152,Ran,"
+    In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",1985,R,"
+Action, Drama, War            ",162 min,8.2,"115,056",Akira Kurosawa,"['Tatsuya Nakadai', 'Akira Terao', 'Jinpachi Nezu', 'Daisuke Ryû']",$4.14M
+153,Raging Bull,"
+    The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",1980,R,"
+Biography, Drama, Sport            ",129 min,8.2,"326,630",Martin Scorsese,"['Robert De Niro', 'Cathy Moriarty', 'Joe Pesci', 'Frank Vincent']",$23.38M
+154,Stalker,"
+    A guide leads two men through an area known as the Zone to find a room that grants wishes.",1979,Not Rated,"
+Drama, Sci-Fi            ",162 min,8.2,"119,958",Andrei Tarkovsky,"['Alisa Freyndlikh', 'Aleksandr Kaydanovskiy', 'Anatoliy Solonitsyn', 'Nikolay Grinko']",$0.23M
+155,Autumn Sonata,"
+    A married daughter who longs for her mother's love is visited by the latter, a successful concert pianist.",1978,PG,"
+Drama, Music            ",99 min,8.2,"28,592",Ingmar Bergman,"['Ingrid Bergman', 'Liv Ullmann', 'Lena Nyman', 'Halvar Björk']","28,592"
+156,Taxi Driver,"
+    A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",1976,R,"
+Crime, Drama            ",114 min,8.2,"739,003",Martin Scorsese,"['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd', 'Albert Brooks']",$28.26M
+157,Monty Python and the Holy Grail,"
+    King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",1975,PG,"
+Adventure, Comedy, Fantasy            ",91 min,8.2,"506,668",Terry Gilliam,"['Graham Chapman', 'John Cleese', 'Eric Idle', 'Terry Gilliam']",$1.23M
+158,For a Few Dollars More,"
+    Two bounty hunters with the same intentions team up to track down a Western outlaw.",1965,R,"
+Western            ",132 min,8.2,"236,441",Sergio Leone,"['Clint Eastwood', 'Lee Van Cleef', 'Gian Maria Volontè', 'Mara Krupp']",$15.00M
+159,The Great Escape,"
+    Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",1963,Approved,"
+Adventure, Drama, History            ",172 min,8.2,"227,981",John Sturges,"['Steve McQueen', 'James Garner', 'Richard Attenborough', 'Charles Bronson']",$12.10M
+160,To Kill a Mockingbird,"
+    Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",1962,Approved,"
+Crime, Drama            ",129 min,8.2,"297,172",Robert Mulligan,"['Gregory Peck', 'John Megna', 'Frank Overton', 'Rosemary Murphy']","297,172"
+161,Yojimbo,"
+    A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",1961,Not Rated,"
+Action, Drama, Thriller            ",110 min,8.2,"113,414",Akira Kurosawa,"['Toshirô Mifune', 'Eijirô Tôno', 'Tatsuya Nakadai', 'Yôko Tsukasa']","113,414"
+162,Judgment at Nuremberg,"
+    In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",1961,Approved,"
+Drama, War            ",179 min,8.2,"70,947",Stanley Kramer,"['Spencer Tracy', 'Burt Lancaster', 'Richard Widmark', 'Marlene Dietrich']","70,947"
+163,Some Like It Hot,"
+    After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",1959,Passed,"
+Comedy, Music, Romance            ",121 min,8.2,"247,554",Billy Wilder,"['Marilyn Monroe', 'Tony Curtis', 'Jack Lemmon', 'George Raft']",$25.00M
+164,Wild Strawberries,"
+    After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",1957,Not Rated,"
+Drama, Romance            ",91 min,8.2,"98,518",Ingmar Bergman,"['Victor Sjöström', 'Bibi Andersson', 'Ingrid Thulin', 'Gunnar Björnstrand']","98,518"
+165,The Seventh Seal,"
+    A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",1957,Not Rated,"
+Drama, Fantasy, History            ",96 min,8.2,"168,612",Ingmar Bergman,"['Max von Sydow', 'Gunnar Björnstrand', 'Bengt Ekerot', 'Nils Poppe']","168,612"
+166,Dial M for Murder,"
+    A former tennis player tries to arrange his wife's murder after learning of her affair.",1954,PG,"
+Crime, Thriller            ",105 min,8.2,"161,212",Alfred Hitchcock,"['Ray Milland', 'Grace Kelly', 'Robert Cummings', 'John Williams']",$0.01M
+167,Tokyo Story,"
+    An old couple visit their children and grandchildren in the city, but receive little attention.",1953,Not Rated,"
+Drama            ",136 min,8.2,"54,792",Yasujirô Ozu,"['Chishû Ryû', 'Chieko Higashiyama', 'Sô Yamamura', 'Setsuko Hara']","54,792"
+168,Rashomon,"
+    The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",1950,Not Rated,"
+Crime, Drama, Mystery            ",88 min,8.2,"155,401",Akira Kurosawa,"['Toshirô Mifune', 'Machiko Kyô', 'Masayuki Mori', 'Takashi Shimura']",$0.10M
+169,All About Eve,"
+    A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",1950,Passed,"
+Drama            ",138 min,8.2,"122,389",Joseph L. Mankiewicz,"['Bette Davis', 'Anne Baxter', 'George Sanders', 'Celeste Holm']",$0.01M
+170,The Treasure of the Sierra Madre,"
+    Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",1948,Passed,"
+Adventure, Drama, Western            ",126 min,8.2,"115,989",John Huston,"['Humphrey Bogart', 'Walter Huston', 'Tim Holt', 'Bruce Bennett']",$5.01M
+171,To Be or Not to Be,"
+    During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",1942,Passed,"
+Comedy, Romance, War            ",99 min,8.2,"31,350",Ernst Lubitsch,"['Carole Lombard', 'Jack Benny', 'Robert Stack', 'Felix Bressart']","31,350"
+172,The Gold Rush,"
+    A prospector goes to the Klondike in search of gold and finds it and more.",1925,Passed,"
+Adventure, Comedy, Drama            ",95 min,8.2,"103,025",Charles Chaplin,"['Charles Chaplin', 'Mack Swain', 'Tom Murray', 'Henry Bergman']",$5.45M
+173,Sherlock Jr.,"
+    A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",1924,Passed,"
+Action, Comedy, Romance            ",45 min,8.2,"43,468",Buster Keaton,"['Buster Keaton', 'Kathryn McGuire', 'Joe Keaton', 'Erwin Connelly']",$0.98M
+174,Portrait of a Lady on Fire,"
+    On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",2019,R,"
+Drama, Romance            ",122 min,8.1,"70,245",Céline Sciamma,"['Noémie Merlant', 'Adèle Haenel', 'Luàna Bajrami', 'Valeria Golino']",$3.76M
+175,A Silent Voice: The Movie,"
+    A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.",2016,Not Rated,"
+Animation, Drama, Family            ",130 min,8.1,"53,286",Naoko Yamada,"['Miyu Irino', 'Saori Hayami', 'Aoi Yûki', 'Kenshô Ono']","53,286"
+176,"Three Billboards Outside Ebbing, Missouri","
+    A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",2017,R,"
+Comedy, Crime, Drama            ",115 min,8.1,"447,375",Martin McDonagh,"['Frances McDormand', 'Woody Harrelson', 'Sam Rockwell', 'Caleb Landry Jones']",$54.51M
+177,The Invisible Guest,"
+    A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defense.",2016,TV-MA,"
+Crime, Drama, Mystery            ",106 min,8.1,"150,982",Oriol Paulo,"['Mario Casas', 'Ana Wagener', 'Jose Coronado', 'Bárbara Lennie']","150,982"
+178,The Handmaiden,"
+    A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",2016,Not Rated,"
+Drama, Romance, Thriller            ",145 min,8.1,"119,636",Chan-wook Park,"['Kim Min-hee', 'Jung-woo Ha', 'Cho Jin-woong', 'Moon So-ri']",$2.01M
+179,Logan,"
+    In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",2017,R,"
+Action, Drama, Sci-Fi            ",137 min,8.1,"663,274",James Mangold,"['Hugh Jackman', 'Patrick Stewart', 'Dafne Keen', 'Boyd Holbrook']",$226.28M
+180,Room,"
+    Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",I 2015,R,"
+Drama, Thriller            ",118 min,8.1,"380,458",Lenny Abrahamson,"['Brie Larson', 'Jacob Tremblay', 'Sean Bridgers', 'Wendy Crewson']",$14.68M
+181,Wild Tales,"
+    Six short stories that explore the extremities of human behavior involving people in distress.",2014,R,"
+Comedy, Drama, Thriller            ",122 min,8.1,"181,385",Damián Szifron,"['Darío Grandinetti', 'María Marull', 'Mónica Villa', 'Diego Starosta']",$3.11M
+182,Soul,"
+    After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",2020,PG,"
+Animation, Adventure, Comedy            ",100 min,8.1,"233,748",Pete Docter,"['Jamie Foxx', 'Tina Fey', 'Graham Norton', 'Rachel House']","233,748"
+183,The Grand Budapest Hotel,"
+    A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",2014,R,"
+Adventure, Comedy, Crime            ",99 min,8.1,"724,319",Wes Anderson,"['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric', 'Adrien Brody']",$59.10M
+184,Gone Girl,"
+    With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",2014,R,"
+Drama, Mystery, Thriller            ",149 min,8.1,"879,590",David Fincher,"['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris', 'Tyler Perry']",$167.77M
+185,Hacksaw Ridge,"
+    World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",2016,R,"
+Biography, Drama, History            ",139 min,8.1,"448,514",Mel Gibson,"['Andrew Garfield', 'Sam Worthington', 'Luke Bracey', 'Teresa Palmer']",$67.21M
+186,Inside Out,"
+    After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",I 2015,PG,"
+Animation, Adventure, Comedy            ",95 min,8.1,"630,957",Pete Docter,"['Amy Poehler', 'Bill Hader', 'Lewis Black', 'Mindy Kaling']",$356.46M
+187,12 Years a Slave,"
+    In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",2013,R,"
+Biography, Drama, History            ",134 min,8.1,"651,006",Steve McQueen,"['Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender', 'Brad Pitt']",$56.67M
+188,Rush,"
+    The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",I 2013,R,"
+Action, Biography, Drama            ",123 min,8.1,"440,975",Ron Howard,"['Daniel Brühl', 'Chris Hemsworth', 'Olivia Wilde', 'Alexandra Maria Lara']",$26.95M
+189,Ford v Ferrari,"
+    American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",2019,PG-13,"
+Action, Biography, Drama            ",152 min,8.1,"310,471",James Mangold,"['Matt Damon', 'Christian Bale', 'Jon Bernthal', 'Caitriona Balfe']",$117.62M
+190,Spotlight,"
+    The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",I 2015,R,"
+Biography, Crime, Drama            ",129 min,8.1,"429,483",Tom McCarthy,"['Mark Ruffalo', 'Michael Keaton', 'Rachel McAdams', 'Liev Schreiber']",$45.06M
+191,Prisoners,"
+    When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",2013,R,"
+Crime, Drama, Mystery            ",153 min,8.1,"614,940",Denis Villeneuve,"['Hugh Jackman', 'Jake Gyllenhaal', 'Viola Davis', 'Melissa Leo']",$61.00M
+192,Mad Max: Fury Road,"
+    In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",2015,R,"
+Action, Adventure, Sci-Fi            ",120 min,8.1,"899,312",George Miller,"['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult', 'Zoë Kravitz']",$154.06M
+193,Gran Torino,"
+    Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",2008,R,"
+Drama            ",116 min,8.1,"728,781",Clint Eastwood,"['Clint Eastwood', 'Bee Vang', 'Christopher Carley', 'Ahney Her']",$148.10M
+194,Harry Potter and the Deathly Hallows: Part 2,"
+    Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",2011,PG-13,"
+Adventure, Drama, Fantasy            ",130 min,8.1,"779,826",David Yates,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon']",$381.01M
+195,Hachi: A Dog's Tale,"
+    A college professor bonds with an abandoned dog he takes into his home.",2009,G,"
+Biography, Drama, Family            ",93 min,8.1,"258,745",Lasse Hallström,"['Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer']","258,745"
+196,Mary and Max,"
+    A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",2009,Not Rated,"
+Animation, Comedy, Drama            ",92 min,8.1,"166,724",Adam Elliot,"['Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana', 'Barry Humphries']","166,724"
+197,How to Train Your Dragon,"
+    A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",2010,PG,"
+Animation, Action, Adventure            ",98 min,8.1,"677,083",Dean DeBlois,"['Jay Baruchel', 'Gerard Butler', 'Christopher Mintz-Plasse', 'Craig Ferguson']",$217.58M
+198,Into the Wild,"
+    After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",2007,R,"
+Adventure, Biography, Drama            ",148 min,8.1,"582,291",Sean Penn,"['Emile Hirsch', 'Vince Vaughn', 'Catherine Keener', 'Marcia Gay Harden']",$18.35M
+199,No Country for Old Men,"
+    Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",2007,R,"
+Crime, Drama, Thriller            ",122 min,8.1,"874,102",Ethan Coen,"['Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin', 'Woody Harrelson']",$74.28M
+200,Rang De Basanti,"
+    The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",2006,Not Rated,"
+Comedy, Crime, Drama            ",167 min,8.1,"113,646",Rakeysh Omprakash Mehra,"['Aamir Khan', 'Soha Ali Khan', 'Siddharth', 'Sharman Joshi']",$2.20M
+201,Million Dollar Baby,"
+    A determined woman works with a hardened boxing trainer to become a professional.",2004,PG-13,"
+Drama, Sport            ",132 min,8.1,"644,491",Clint Eastwood,"['Hilary Swank', 'Clint Eastwood', 'Morgan Freeman', 'Jay Baruchel']",$100.49M
+202,Hotel Rwanda,"
+Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",2004,PG-13,"
+Biography, Drama, History            ",121 min,8.1,"337,942",Terry George,"['Don Cheadle', 'Sophie Okonedo', 'Joaquin Phoenix', 'Xolani Mali']",$23.53M
+203,Before Sunset,"
+    Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",2004,R,"
+Drama, Romance            ",80 min,8.1,"240,967",Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Vernon Dobtcheff', 'Louise Lemoine Torrès']",$5.82M
+204,Memories of Murder,"
+    In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",2003,Not Rated,"
+Crime, Drama, Mystery            ",132 min,8.1,"146,600",Bong Joon Ho,"['Kang-ho Song', 'Kim Sang-kyung', 'Roe-ha Kim', 'Jae-ho Song']",$0.01M
+205,Kill Bill: Vol. 1,"
+    After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",2003,R,"
+Action, Crime, Drama            ",111 min,8.1,"1,016,382",Quentin Tarantino,"['Uma Thurman', 'David Carradine', 'Daryl Hannah', 'Michael Madsen']",$70.10M
+206,Finding Nemo,"
+    After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",2003,G,"
+Animation, Adventure, Comedy            ",100 min,8.1,"962,659",Andrew Stanton,"['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould', 'Willem Dafoe']",$380.84M
+207,Catch Me If You Can,"
+    Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",2002,PG-13,"
+Biography, Crime, Drama            ",141 min,8.1,"852,980",Steven Spielberg,"['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken', 'Martin Sheen']",$164.62M
+208,Amores Perros,"
+    A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",2000,R,"
+Drama, Thriller            ",154 min,8.1,"226,658",Alejandro G. Iñárritu,"['Emilio Echevarría', 'Gael García Bernal', 'Goya Toledo', 'Álvaro Guerrero']",$5.38M
+209,"Monsters, Inc.","
+    In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",2001,G,"
+Animation, Adventure, Comedy            ",92 min,8.1,"828,423",Pete Docter,"['Billy Crystal', 'John Goodman', 'Mary Gibbs', 'Steve Buscemi']",$289.92M
+210,The Sixth Sense,"
+    A boy who communicates with spirits seeks the help of a disheartened child psychologist.",1999,PG-13,"
+Drama, Mystery, Thriller            ",107 min,8.1,"922,142",M. Night Shyamalan,"['Bruce Willis', 'Haley Joel Osment', 'Toni Collette', 'Olivia Williams']",$293.51M
+211,The Truman Show,"
+    An insurance salesman discovers his whole life is actually a reality TV show.",1998,PG,"
+Comedy, Drama            ",103 min,8.1,"959,244",Peter Weir,"['Jim Carrey', 'Ed Harris', 'Laura Linney', 'Noah Emmerich']",$125.62M
+212,The Big Lebowski,"
+    Jeff ""The Dude"" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",1998,R,"
+Comedy, Crime, Sport            ",117 min,8.1,"743,674",Joel Coen,"['Jeff Bridges', 'John Goodman', 'Julianne Moore', 'Steve Buscemi']",$17.50M
+213,In the Mood for Love,"
+    Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",2000,PG,"
+Drama, Romance            ",98 min,8.1,"129,222",Kar-Wai Wong,"['Tony Chiu-Wai Leung', 'Maggie Cheung', 'Ping Lam Siu', ""Tung Cho 'Joe' Cheung""]",$2.73M
+214,Trainspotting,"
+    Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",1996,R,"
+Drama            ",93 min,8.1,"642,394",Danny Boyle,"['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller', 'Kevin McKidd']",$16.50M
+215,Fargo,"
+    Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",1996,R,"
+Crime, Drama, Thriller            ",98 min,8.1,"627,523",Joel Coen,"['William H. Macy', 'Frances McDormand', 'Steve Buscemi', 'Peter Stormare']",$24.61M
+216,La Haine,"
+    24 hours in the lives of three young men in the French suburbs the day after a violent riot.",1995,Not Rated,"
+Crime, Drama            ",98 min,8.1,"154,320",Mathieu Kassovitz,"['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui', 'Abdel Ahmed Ghili']",$0.31M
+217,Before Sunrise,"
+    A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",1995,R,"
+Drama, Romance            ",101 min,8.1,"278,106",Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Andrea Eckert', 'Hanno Pöschl']",$5.54M
+218,Jurassic Park,"
+    A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",1993,PG-13,"
+Action, Adventure, Sci-Fi            ",127 min,8.1,"882,253",Steven Spielberg,"['Sam Neill', 'Laura Dern', 'Jeff Goldblum', 'Richard Attenborough']",$402.45M
+219,In the Name of the Father,"
+    A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",1993,R,"
+Biography, Crime, Drama            ",133 min,8.1,"160,863",Jim Sheridan,"['Daniel Day-Lewis', 'Pete Postlethwaite', 'Alison Crosbie', 'Philip King']",$25.01M
+220,Dead Poets Society,"
+    Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",1989,PG,"
+Comedy, Drama            ",128 min,8.1,"435,655",Peter Weir,"['Robin Williams', 'Robert Sean Leonard', 'Ethan Hawke', 'Josh Charles']",$95.86M
+221,Stand by Me,"
+    After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",1986,R,"
+Adventure, Drama            ",89 min,8.1,"368,629",Rob Reiner,"['Wil Wheaton', 'River Phoenix', 'Corey Feldman', ""Jerry O'Connell""]",$52.29M
+222,Platoon,"
+    Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",1986,R,"
+Drama, War            ",120 min,8.1,"386,583",Oliver Stone,"['Charlie Sheen', 'Tom Berenger', 'Willem Dafoe', 'Keith David']",$138.53M
+223,"Paris, Texas","
+    Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",1984,R,"
+Drama            ",145 min,8.1,"94,538",Wim Wenders,"['Harry Dean Stanton', 'Nastassja Kinski', 'Dean Stockwell', 'Sam Berry']",$2.18M
+224,Nausicaä of the Valley of the Wind,"
+    Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",1984,PG,"
+Animation, Adventure, Fantasy            ",117 min,8.1,"154,539",Hayao Miyazaki,"['Sumi Shimamoto', 'Mahito Tsujimura', 'Hisako Kyôda', 'Gorô Naya']",$0.50M
+225,The Thing,"
+    A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",1982,R,"
+Horror, Mystery, Sci-Fi            ",109 min,8.1,"377,505",John Carpenter,"['Kurt Russell', 'Wilford Brimley', 'Keith David', 'Richard Masur']",$13.78M
+226,Blade Runner,"
+    A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",1982,R,"
+Action, Sci-Fi, Thriller            ",117 min,8.1,"703,804",Ridley Scott,"['Harrison Ford', 'Rutger Hauer', 'Sean Young', 'Edward James Olmos']",$32.87M
+227,The Elephant Man,"
+    A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",1980,PG,"
+Biography, Drama            ",124 min,8.1,"223,743",David Lynch,"['Anthony Hopkins', 'John Hurt', 'Anne Bancroft', 'John Gielgud']","223,743"
+228,Monty Python's Life of Brian,"
+    Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",1979,R,"
+Comedy            ",94 min,8.1,"372,582",Terry Jones,"['Graham Chapman', 'John Cleese', 'Michael Palin', 'Terry Gilliam']",$20.05M
+229,The Deer Hunter,"
+    An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",1978,R,"
+Drama, War            ",183 min,8.1,"316,108",Michael Cimino,"['Robert De Niro', 'Christopher Walken', 'John Cazale', 'John Savage']",$48.98M
+230,Rocky,"
+    A small-time boxer gets a supremely rare chance to fight a heavyweight champion in a bout in which he strives to go the distance for his self-respect.",1976,PG,"
+Drama, Sport            ",120 min,8.1,"527,007",John G. Avildsen,"['Sylvester Stallone', 'Talia Shire', 'Burt Young', 'Carl Weathers']",$117.24M
+231,Network,"
+    A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",1976,R,"
+Drama            ",121 min,8.1,"147,170",Sidney Lumet,"['Faye Dunaway', 'William Holden', 'Peter Finch', 'Robert Duvall']","147,170"
+232,Barry Lyndon,"
+    An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",1975,PG,"
+Adventure, Drama, History            ",185 min,8.1,"152,990",Stanley Kubrick,"[""Ryan O'Neal"", 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger']","152,990"
+233,Chinatown,"
+    A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",1974,R,"
+Drama, Mystery, Thriller            ",130 min,8.1,"299,614",Roman Polanski,"['Jack Nicholson', 'Faye Dunaway', 'John Huston', 'Perry Lopez']",$8.49M
+234,Cool Hand Luke,"
+    A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",1967,GP,"
+Crime, Drama            ",127 min,8.1,"164,458",Stuart Rosenberg,"['Paul Newman', 'George Kennedy', 'Strother Martin', 'J.D. Cannon']",$16.22M
+235,Persona,"
+    A nurse is put in charge of a mute actress and finds that their personae are melding together.",1966,Not Rated,"
+Drama, Thriller            ",83 min,8.1,"106,123",Ingmar Bergman,"['Bibi Andersson', 'Liv Ullmann', 'Margaretha Krook', 'Gunnar Björnstrand']","106,123"
+236,Andrei Rublev,"
+    The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.",1966,R,"
+Biography, Drama, History            ",205 min,8.1,"48,383",Andrei Tarkovsky,"['Anatoliy Solonitsyn', 'Ivan Lapikov', 'Nikolay Grinko', 'Nikolay Sergeev']",$0.10M
+237,The Battle of Algiers,"
+    In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",1966,Not Rated,"
+Drama, War            ",121 min,8.1,"54,342",Gillo Pontecorvo,"['Brahim Hadjadj', 'Jean Martin', 'Yacef Saadi', 'Samia Kerbash']",$0.06M
+238,The 400 Blows,"
+    A young boy, left without attention, delves into a life of petty crime.",1959,Not Rated,"
+Crime, Drama            ",99 min,8.1,"107,667",François Truffaut,"['Jean-Pierre Léaud', 'Albert Rémy', 'Claire Maurier', 'Guy Decomble']","107,667"
+239,Ben-Hur,"
+    After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",1959,G,"
+Adventure, Drama, History            ",212 min,8.1,"222,596",William Wyler,"['Charlton Heston', 'Jack Hawkins', 'Stephen Boyd', 'Haya Harareet']",$74.70M
+240,The Bridge on the River Kwai,"
+    British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",1957,PG,"
+Adventure, Drama, War            ",161 min,8.1,"206,323",David Lean,"['William Holden', 'Alec Guinness', 'Jack Hawkins', 'Sessue Hayakawa']",$44.91M
+241,Rififi,"
+    Four men plan a technically perfect crime, but the human element intervenes...",1955,Not Rated,"
+Crime, Drama, Thriller            ",118 min,8.1,"30,313",Jules Dassin,"['Jean Servais', 'Carl Möhner', 'Robert Manuel', 'Janine Darcey']",$0.06M
+242,On the Waterfront,"
+    An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",1954,Approved,"
+Crime, Drama, Thriller            ",108 min,8.1,"144,296",Elia Kazan,"['Marlon Brando', 'Karl Malden', 'Lee J. Cobb', 'Rod Steiger']",$9.60M
+243,The Wages of Fear,"
+    In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",1953,Not Rated,"
+Adventure, Drama, Thriller            ",131 min,8.1,"55,756",Henri-Georges Clouzot,"['Yves Montand', 'Charles Vanel', 'Peter van Eyck', 'Folco Lulli']","55,756"
+244,The Third Man,"
+    Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",1949,Approved,"
+Film-Noir, Mystery, Thriller            ",93 min,8.1,"161,156",Carol Reed,"['Orson Welles', 'Joseph Cotten', 'Alida Valli', 'Trevor Howard']",$0.45M
+245,Rebecca,"
+    A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",1940,Approved,"
+Drama, Mystery, Romance            ",130 min,8.1,"126,102",Alfred Hitchcock,"['Laurence Olivier', 'Joan Fontaine', 'George Sanders', 'Judith Anderson']",$4.36M
+246,Mr. Smith Goes to Washington,"
+    A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",1939,Passed,"
+Comedy, Drama            ",129 min,8.1,"108,482",Frank Capra,"['James Stewart', 'Jean Arthur', 'Claude Rains', 'Edward Arnold']",$9.60M
+247,Gone with the Wind,"
+    A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",1939,Passed,"
+Drama, History, Romance            ",238 min,8.1,"294,057",Victor Fleming,"['Clark Gable', 'Vivien Leigh', 'Thomas Mitchell', ""Barbara O'Neil""]",$198.68M
+248,It Happened One Night,"
+    A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.",1934,Approved,"
+Comedy, Romance            ",105 min,8.1,"95,773",Frank Capra,"['Clark Gable', 'Claudette Colbert', 'Walter Connolly', 'Roscoe Karns']",$4.36M
+249,The Passion of Joan of Arc,"
+    In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",1928,Passed,"
+Biography, Drama, History            ",114 min,8.1,"49,005",Carl Theodor Dreyer,"['Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz']",$0.02M
+250,The General,"
+    When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",1926,Passed,"
+Action, Adventure, Comedy            ",67 min,8.1,"82,596",Clyde Bruckman,"['Buster Keaton', 'Marion Mack', 'Glen Cavender', 'Jim Farley']",$1.03M
