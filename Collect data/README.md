@@ -26,3 +26,6 @@ To collect the data for the top 250 movies by user rating i used **Beautiful Sou
 
 Ranking, Title, Description, Year, Genre (movie suitability , Category, Duration, Rating, Total Votes, Director, Stars, Gross, Image url
 
+![image](https://user-images.githubusercontent.com/72921465/120685700-cc88cf80-c4a8-11eb-97c5-d84e2fd92bd3.png)
+
+
